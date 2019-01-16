@@ -1,0 +1,9 @@
+cvxopt
+matplotlib
+nose2
+numpy
+Pillow
+pycodestyle
+scikit-image
+scikit-learn
+scipy
